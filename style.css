@@ -4,9 +4,21 @@
   padding: 0 15px;
 }
 .header {
-  padding-top: 24px;
-  padding-bottom: 143px;
+  padding-top: 280px;
+  padding-bottom: 200px;
+}
+.ul-li {
+  padding-top: 40px;
+  padding-bottom: 304px;
 }
 .ssd {
-  padding-bottom: 286px;
+  padding-bottom: 94px;
+  padding-top: 94px;
+}
+.azd {
+  padding-top: 118px;
+  padding-bottom: 188px;
+}
+.ccc {
+  padding-bottom: 154px;
 }
